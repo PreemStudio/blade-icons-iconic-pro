@@ -1,11 +1,14 @@
 {
     "name": "preemstudio/blade-icons-iconic-pro",
-    "description": "A package to easily make use of Iconic Pro in your Laravel Blade views.",
+    "description": "A package to easily make use of Iconic Pro with Laravel Blade Icons.",
     "license": "MIT",
     "keywords": [
         "PreemStudio",
         "laravel",
-        "package_slug"
+        "blade",
+        "blade-icons",
+        "blade-icons-iconic-pro",
+        "iconic-pro"
     ],
     "authors": [
         {
