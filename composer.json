@@ -17,7 +17,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/preemstudio/package_slug",
+    "homepage": "https://github.com/PreemStudio/package_slug",
     "require": {
         "php": "^8.1",
         "illuminate/contracts": "^10.0",
@@ -43,7 +43,7 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "PreemStudio\\BladeIconicPro\\": "src"
+            "PreemStudio\\BladeIcons\\IconicPro\\": "src"
         }
     },
     "autoload-dev": {
@@ -63,7 +63,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "PreemStudio\\BladeIconicPro\\ServiceProvider"
+                "PreemStudio\\BladeIcons\\IconicPro\\ServiceProvider"
             ]
         }
     },
