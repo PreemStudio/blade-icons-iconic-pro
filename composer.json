@@ -17,7 +17,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/PreemStudio/package_slug",
+    "homepage": "https://github.com/PreemStudio/blade-icons-iconic-pro",
     "require": {
         "php": "^8.1",
         "illuminate/contracts": "^10.0",
