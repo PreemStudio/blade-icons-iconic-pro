@@ -1,24 +1,3 @@
-<p align="center">
-    <a href="https://bombenprodukt.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/faustbrian/assets/main/logo-text.svg" width="128" alt="BombenProdukt Logo" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-iconic-pro/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-iconic-pro" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-iconic-pro">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-iconic-pro" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-iconic-pro">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-iconic-pro" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-iconic-pro">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-iconic-pro" alt="License" />
-    </a>
-</p>
-
 ## About Iconic Pro
 
 This project was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and is a package to easily make use of [Iconic Pro](https://iconic.app/) with Laravel Blade Icons. Be sure to browse through the [changelog](CHANGELOG.md), [code of conduct](.github/CODE_OF_CONDUCT.md), [contribution guidelines](.github/CONTRIBUTING.md), [license](LICENSE), and [security policy](.github/SECURITY.md).
